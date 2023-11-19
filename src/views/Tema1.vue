@@ -586,12 +586,39 @@
                   p Ejemplo 2: ISO 9001:2008, numeral 6.3. Infraestructura, estándar de calidad:  la organización debe determinar, proporcionar y mantener la infraestructura necesaria para lograr la conformidad con los requisitos del producto. 
 
     p.mb-3(data-aos="fade-down") Teniendo en cuenta los elementos generales de los estándares de calidad, se procede a realizar la revisión de las metodologías que existen para el diseño de planes, programas y proyectos, así como aquellas que existen para el establecimiento de prioridades. 
-    p.mb-5(data-aos="fade-down") El concepto de planeamiento, es el paso inicial para entrar en materia de las metodologías, en el siguiente vídeo encontrará una mayor explicación al respecto:
+    p La planeación es la generación de una idea que lleva a la formulación de objetivos.  Son parte del planeamiento:
+    ul.lista-ul.ms-3.mb-4
+      li.mb-0
+        span.icon ✔ 
+        | Acciones estratégicas: representa los planteamientos y direccionamiento. 
+      li.mb-0
+        span.icon ✔ 
+        | Acciones tácticas: operativa, realización de lo pensado o planteado en la acción estratégica.
+    p.mb-5(data-aos="fade-down") El concepto de planeamiento, es el paso inicial para entrar en materia de las metodologías, en el siguiente recurso encontrará una mayor explicación al respecto:
 
-    figure.mb-5
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/" title="Plan de acción: metodologías, recursos y lineamientos administrativos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      
+    .row.mb-5(data-aos="fade-down")
+      .col-12.col-md-6
+        img(src='@/assets/curso/temas/tema1/tema1-ac.png', alt='')
+      .col-12.col-md-6
+        LineaTiempoD.color-secundario
+          div(numero="1" titulo="Planeamiento") 
+            p El planeamiento ofrece ventajas al ayudar a identificar objetivos claros, determinar la estructura, establecer metas y planificar políticas, programas, procedimientos, reglas y estrategias. Incluye coordinación de los colaboradores internos de la organización, recursos disponibles e identificar procedimientos eficientes para el logro de los objetivos.
+          div(numero="2" titulo="Herramientas") 
+            p Las herramientas del planeamiento, incluye los elementos con que se cuenta para poner en práctica lo calculado.
+          div(numero="3" titulo="Proyecciones") 
+            p Corresponde con los pronósticos basados en los datos estadísticos pasados.
+          div(numero="4" titulo="Pronósticos") 
+            p Son las predicciones del comportamiento a futuro basándose en aspectos subjetivos.
+          div(numero="5" titulo="Planes") 
+            p Son todas las acciones planeadas a futuro.
+          div(numero="6" titulo="Programas") 
+            p Forma de llevar a cabo los planes.
+          div(numero="7" titulo="Proyectos") 
+            p Procedimiento que se lleva a cabo.
+          div(numero="8" titulo="Presupuestos") 
+            p Representa todo el plan integral de una manera cuantitativa.
+          div(numero="4" titulo="Procedimientos") 
+            p Permiten organizar el paso a paso de un proceso.
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down")
       .col-12.col-md-8.col-lg-8
         p Para este componente, sólo se van a revisar las metodologías establecidas para los planes, programas y proyectos específicos. 
@@ -803,28 +830,28 @@
           .col-md-7
             p Es necesario proyectar los requerimientos en términos de recursos: humanos, económicos, logísticos; y realizar su distribución acorde con las acciones a desarrollar, el tiempo estimado y el número de personas que se desea impactar.
             p Durante la planificación también se deben generar las siguientes actividades: 
-                ul.lista-ul.ms-3
-                  li.mb-0
-                    span.icon ✔ 
-                    | Introducción, antecedentes, justificación, y objetivos del programa. 
-                  li.mb-0
-                    span.icon ✔ 
-                    | Definir metas e indicadores. 
-                  li.mb-0
-                    span.icon ✔ 
-                    | Actividades y procedimientos. 
-                  li.mb-0
-                    span.icon ✔ 
-                    | Proyectar los entregables de la ejecución del programa o describir el resultado esperado. 
-                  li.mb-0
-                    span.icon ✔ 
-                    | Participantes; es necesario dejar claro el universo del programa; población a la que está dirigido. Así como la organización interna del programa; indicar los colaboradores internos del programa. 
-                  li.mb-0
-                    span.icon ✔ 
-                    | Cronograma (fecha inicial/final); si es continuo, el cronograma estará enfocado en la ejecución de las actividades incluidas en el desarrollo. 
-                  li.mb-0
-                    span.icon ✔ 
-                    | Conocer posibles riesgos/restricciones que sean relevantes.
+            ul.lista-ul.ms-3
+              li.mb-0
+                span.icon ✔ 
+                | Introducción, antecedentes, justificación, y objetivos del programa. 
+              li.mb-0
+                span.icon ✔ 
+                | Definir metas e indicadores. 
+              li.mb-0
+                span.icon ✔ 
+                | Actividades y procedimientos. 
+              li.mb-0
+                span.icon ✔ 
+                | Proyectar los entregables de la ejecución del programa o describir el resultado esperado. 
+              li.mb-0
+                span.icon ✔ 
+                | Participantes; es necesario dejar claro el universo del programa; población a la que está dirigido. Así como la organización interna del programa; indicar los colaboradores internos del programa. 
+              li.mb-0
+                span.icon ✔ 
+                | Cronograma (fecha inicial/final); si es continuo, el cronograma estará enfocado en la ejecución de las actividades incluidas en el desarrollo. 
+              li.mb-0
+                span.icon ✔ 
+                | Conocer posibles riesgos/restricciones que sean relevantes.
       .py-3.py-md-4(titulo="Ejecución")
         .row
           .col-md-5.mb-4.mb-md-0
