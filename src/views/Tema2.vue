@@ -492,7 +492,7 @@
                 | Artículos tipo B: 40 % del inventario, moderada frecuencia de ventas y representan el 15 % del valor. 
               li.mb-0
                 span.icon ✔ 
-                | Artículos tipo C: 40 % del inventario, alta frecuencia de venta y representan el 5% del valor.  
+                | Artículos tipo C: 40 % del inventario, alta frecuencia de venta y representan el 5 % del valor.  
             p Los porcentajes de distribución varían según las políticas de la empresa.
           .tarjeta.color-acento-contenido.p-3(x="37%" y="10%" numero="2")
             p Por medio de este método, se pueden identificar los elementos que ingresan al inventario para que sean los primeros en utilizarse. Es ideal cuando existen fechas de caducidad, como es el caso de los medicamentos, alimentos, químicos, entre otros. 

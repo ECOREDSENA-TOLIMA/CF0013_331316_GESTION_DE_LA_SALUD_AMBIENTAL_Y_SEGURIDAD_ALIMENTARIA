@@ -49,7 +49,7 @@
           .tarjeta.color-primario.p-3(x="72.5%" y="56%" numero="4")
             p Sugiere definir tareas a realizar primero (prioridad alta) y cuales reprogramar (tareas flexibles). Darles prioridad y definir la secuencia a seguir para completar tareas y poder comenzar otras. En muchos casos, la ejecución de una actividad depende de otra, esto debe destacarse en la priorización.
           .tarjeta.color-primario.p-3(x="26%" y="81%" numero="5")
-            p Asignar fechas límites de actividades proyectadas y de acontecimientos puntuales (hitos) según la completitud de la actividad o comienzo de una nueva fase. Tener en cuenta la herramienta de diagrama de Gantt, proyectando tareas prioritarias, hitos y fechas límite.
+            p Asignar fechas límites de actividades proyectadas y de acontecimientos puntuales (hitos) según la completitud de la actividad o comienzo de una nueva fase. Tener en cuenta la herramienta de diagrama de #[em Gantt], proyectando tareas prioritarias, hitos y fechas límite.
           .tarjeta.color-primario.p-3(x="64%" y="81%" numero="6")
             p Una supervisión ágil y fluida requiere herramientas tipo #[em software]. Medir indicadores es clave, muestra el cumplimiento o incumplimiento de metas establecidas, en la revisión de avances, evaluar al equipo ejecutor y así avanzar en nuevas tareas o reforzar las que no se han cumplido.
       .col-12.d-block.d-md-none
@@ -80,7 +80,7 @@
           .col-12.mb-4(data-aos="fade-down")
             .tarjeta.color-secundario.p-4
               p.mb-3 #[b Concretar plazos e hitos]
-              p.mb-1 Asignar fechas límites de actividades proyectadas y de acontecimientos puntuales (hitos) según la completitud de la actividad o comienzo de una nueva fase. Tener en cuenta la herramienta de diagrama de Gantt, proyectando tareas prioritarias, hitos y fechas límite.
+              p.mb-1 Asignar fechas límites de actividades proyectadas y de acontecimientos puntuales (hitos) según la completitud de la actividad o comienzo de una nueva fase. Tener en cuenta la herramienta de diagrama de #[em Gantt], proyectando tareas prioritarias, hitos y fechas límite.
           .col-12.mb-4(data-aos="fade-down")
             .tarjeta.color-secundario.p-4
               p.mb-3 #[b Supervisión y adaptación al plan de acción]
@@ -104,7 +104,7 @@
         .row
           .col-md-5.mb-4.mb-md-0
             figure
-              img(src='@/assets/curso/temas/tema1/tema1-3.png', alt='')
+              img(src='@/assets/curso/temas/tema1/tema1-3.svg', alt='')
           .col-md-7
             h4 Estructura organizativa funcional
             p Tiene como objetivo dar soporte a los diversos niveles jerárquicos, es decir, frente a cada nivel de jerarquía se encuentra un especialista o jefe de sección. Este tipo de sistema combate la multiplicidad de funciones y el trabajo se enfoca en los objetivos concretos. 
@@ -112,7 +112,7 @@
         .row
           .col-md-5.mb-4.mb-md-0
             figure
-              img(src='@/assets/curso/temas/tema1/tema1-4.png', alt='')
+              img(src='@/assets/curso/temas/tema1/tema1-4.svg', alt='')
           .col-md-7
             h4 Estructura organizativa lineal o #[em staff]
             p Es una estructura que mezcla las relaciones de autoridad directa con aquel asesoramiento que ejercen consultores externos a la empresa. En este tipo de dinámica, los asesores o agentes consultores cubren los requerimientos de la empresa, no hay una amenaza sobre la autoridad y las actividades suelen realizarse con tiempos y recursos más óptimos. 
@@ -120,7 +120,7 @@
         .row
           .col-md-5.mb-4.mb-md-0
             figure
-              img(src='@/assets/curso/temas/tema1/tema1-5.png', alt='')
+              img(src='@/assets/curso/temas/tema1/tema1-5.svg', alt='')
           .col-md-7
             h4 Estructura organizativa matricial
             p Es la unión de varios recursos y materiales para ejecutar tareas específicas y cuando se finalice la tarea o proyecto, la estructura se disuelve. Como característica principal, las personas que integran los equipos pueden o no hacer parte de la empresa y tienen como jefes uno que es general y el otro que es responsable de la actividad específica. 
@@ -136,7 +136,7 @@
         .row
           .col-md-5.mb-4.mb-md-0
             figure
-              img(src='@/assets/curso/temas/tema1/tema1-6.png', alt='')
+              img(src='@/assets/curso/temas/tema1/tema1-6.svg', alt='')
           .col-md-7
             h4 Estructura organizativa por división
             p Se organiza bajo tres líneas claves que son productos, clientes o zona geográfica. 
@@ -154,7 +154,7 @@
         .row
           .col-md-5.mb-4.mb-md-0
             figure
-              img(src='@/assets/curso/temas/tema1/tema1-7.png', alt='')
+              img(src='@/assets/curso/temas/tema1/tema1-7.svg', alt='')
           .col-md-7
             h4 Estructura organizativa jerárquica
             p Más utilizada a nivel empresarial. Es la creación de pequeñas dependencias vigiladas por uno o varios cargos superiores. Concentra la autoridad y poder sobre otras dependencias. Permite organizar los niveles de autoridad, responsabilidad y actividades asignadas hasta llegar al nivel de mayor autoridad.
@@ -463,7 +463,7 @@
       .col-10.col-md-4.col-lg-5
         img(src='@/assets/curso/temas/tema1/tema1-22.png', alt='')  
       .col-12.col-md-8.col-lg-7
-        p El estándar de calidad es definido como el punto de referencia que se tiene en cuenta para determinar si un objeto, servicio o proceso, por ejemplo, cumplen con las expectativas del usuario y también con las que están reguladas normativamente. Por tanto, el estándar de calidad es aquel que se debe cumplir, es decir, es parte del proceso evaluativo por parte de los entes que regulan el sector. Algunos estándares de calidad pueden ser catalogados como de obligatorio cumplimiento y otros, como aquellos que son superiores y que pueden aplicar para procesos de certificación o acreditación según sea el caso. Es así como en salud ambiental y sanitaria es necesario cumplir con los estándares de calidad definidos para que la población pueda contar con el hábitat saludable y con las óptimas condiciones de salud relacionadas con las condiciones ambientales.  
+        p El estándar de calidad, es definido como el punto de referencia que se tiene en cuenta para determinar si un objeto, servicio o proceso, por ejemplo, cumplen con las expectativas del usuario y también con las que están reguladas normativamente. Por tanto, el estándar de calidad es aquel que se debe cumplir, es decir, es parte del proceso evaluativo por parte de los entes que regulan el sector. Algunos estándares de calidad pueden ser catalogados como de obligatorio cumplimiento y otros, como aquellos que son superiores y que pueden aplicar para procesos de certificación o acreditación según sea el caso. Es así como en salud ambiental y sanitaria es necesario cumplir con los estándares de calidad definidos para que la población pueda contar con el hábitat saludable y con las óptimas condiciones de salud relacionadas con las condiciones ambientales.  
 
     p.mb-5(data-aos="fade-down") Tal y como ya fue revisado en este mismo programa, las actas de inspección, vigilancia y control, sirven de ejemplo para identificar los estándares de calidad esperados a nivel sanitario. A continuación, se enuncian algunos criterios contenidos dentro del acta general de IVC sanitaria revisados en los riesgos ambientales, del consumo y sanitarios según la salud pública. 
 
@@ -498,7 +498,7 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down")
       .col-12.col-md-8.col-lg-8
         p Adicional a lo anterior, es importante tener en cuenta que los estándares de calidad pueden generarse a partir de los lineamientos gubernamentales, pero también pueden ser parte del sistema de gestión de calidad de la organización, lo cual complementa las acciones en calidad dirigidas a los procesos de mejora continua fundamentales dentro del proceso de atención en salud, área de salud ambiental. 
-        p Los estándares de calidad tienen como objetivo central responder positivamente ante la auditoría externa de las organizaciones. En el marco de la evaluación de los modelos de estándares, se establecen los requerimientos de los cuales sin su cumplimiento no se puede contar con la certificación correspondiente. Tener una certificación externa genera una garantía hacia terceros del correcto funcionamiento del sistema de calidad de la organización o un área específica. 
+        p Los estándares de calidad, tienen como objetivo central responder positivamente ante la auditoría externa de las organizaciones. En el marco de la evaluación de los modelos de estándares, se establecen los requerimientos de los cuales sin su cumplimiento no se puede contar con la certificación correspondiente. Tener una certificación externa genera una garantía hacia terceros del correcto funcionamiento del sistema de calidad de la organización o un área específica. 
         p Los estándares de calidad no gubernamentales más utilizados por las entidades son las normas ISO - #[em “Norma definida por la Organización Internacional de Normalización que se aplica a los productos y servicios”]. Se pueden encontrar las siguientes: 
       .col-10.col-md-4.col-lg-4
         img(src='@/assets/curso/temas/tema1/tema1-23.png', alt='')  
@@ -621,8 +621,8 @@
             p Permiten organizar el paso a paso de un proceso.
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down")
       .col-12.col-md-8.col-lg-8
-        p Para este componente, sólo se van a revisar las metodologías establecidas para los planes, programas y proyectos específicos. 
-        p #[b Proyectos.] El proyecto es el resultado del análisis de todas las opciones estratégicas y se debe dar prioridad a cada una de éstas, seleccionando aquel que tiene un desempeño único como condición para lograr los objetivos estratégicos, y de igual manera la misión y la visión empresarial. 
+        p En este componente formativo, sólo se van a revisar las metodologías establecidas para los planes, programas y proyectos específicos. 
+        p #[b Proyectos.] El proyecto, es el resultado del análisis de todas las opciones estratégicas y se debe dar prioridad a cada una de éstas, seleccionando aquel que tiene un desempeño único como condición para lograr los objetivos estratégicos, y de igual manera la misión y la visión empresarial. 
         p En los proyectos estratégicos, se puede tener en cuenta la modernización tecnológica, la reingeniería organizacional, el plan global de mercado, de calidad total, de servicio al cliente y plan estratégico de talento humano. 
         p Para la selección de los proyectos es indispensable tener en cuenta los siguientes elementos: 
         ul.lista-ul.ms-3
@@ -691,7 +691,7 @@
             | El diagrama de flujo: por medio de este se puede visualizar el paso a paso del proyecto. 
           li.mb-0
             span.icon ✔ 
-            | El diagrama de Gantt: por medio de este gráfico de barras horizontales se logra visualizar el cronograma del proyecto. Las barras muestran las tareas del proyecto y la longitud de las barras definen la cantidad de tiempo que tardarán en realizarse a completitud. 
+            | El diagrama de #[3m Gantt]: por medio de este gráfico de barras horizontales se logra visualizar el cronograma del proyecto. Las barras muestran las tareas del proyecto y la longitud de las barras definen la cantidad de tiempo que tardarán en realizarse a completitud. 
           li.mb-0
             span.icon ✔ 
             | La estructura de desglose del trabajo (WBS): por medio de esta estrategia se desglosan todas las tareas del proyecto, permitiendo proyectar los entregables y siempre teniendo en cuenta los objetivos del proyecto.
@@ -1207,19 +1207,19 @@
             ul.lista-ul.ms-3
               li.mb-0
                 span.icon ✔ 
-                | Accesibilidad: 35%.
+                | Accesibilidad: 35 %.
               li.mb-0
                 span.icon ✔ 
-                | Seguridad del paciente incluyendo condiciones sanitarias óptimas: 25%.
+                | Seguridad del paciente incluyendo condiciones sanitarias óptimas: 25 %.
               li.mb-0
                 span.icon ✔ 
-                | Pertinencia: 20%.
+                | Pertinencia: 20 %.
               li.mb-0
                 span.icon ✔ 
-                | Oportunidad: 15%.
+                | Oportunidad: 15 %.
               li.mb-0
                 span.icon ✔ 
-                | Continuidad: 5%.
+                | Continuidad: 5 %.
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema1/tema1-44.png', alt='')
@@ -1287,7 +1287,7 @@
             span Descargar
             i.fas.fa-file-download
 
-    p.mb-5(data-aos="fade-down") En el marco de los procesos de mejora continua, como es el caso del programa de auditoría para el mejoramiento de la atención en salud – PAMEC, se cuenta con una matriz de priorización que tiene en cuenta las variables de riesgo, costo y volumen en el marco de las acciones de mejora que se establezcan a nivel institucional, que se aprecia a continuación: 
+    p.mb-5(data-aos="fade-down") En el marco de los procesos de mejora continua, como es el caso del programa de auditoría para el mejoramiento de la atención en salud - PAMEC, se cuenta con una matriz de priorización que tiene en cuenta las variables de riesgo, costo y volumen en el marco de las acciones de mejora que se establezcan a nivel institucional, que se aprecia a continuación: 
 
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-12(data-aos="fade-right")
@@ -1421,7 +1421,7 @@
         figure 
           img(src='@/assets/curso/temas/tema1/fig-4.svg', alt='En la figura 4 se muestra el resultado del ejemplo del diagrama de Pareto, graficado en un plano cartesiano.')
 
-    p.mb-5(data-aos="fade-down") Acorde con el resultado del ejemplo, el 72% está concentrado en las 3 primeras causas. Con esto se puede deducir que la priorización en torno a las problemáticas identificadas, va a comenzar con esas quejas. 
+    p.mb-5(data-aos="fade-down") Acorde con el resultado del ejemplo, el 72 % está concentrado en las 3 primeras causas. Con esto se puede deducir que la priorización en torno a las problemáticas identificadas, va a comenzar con esas quejas. 
 
     Separador
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -1473,7 +1473,7 @@
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down")
       .col-12.col-md-8.col-lg-8
-        p Recordar que para el cumplimiento efecto de las actividades se cuenta con el cronograma de trabajo, el cual se puede representar en el Diagrama de Gantt para su fácil ejecución y seguimiento. 
+        p Recordar que para el cumplimiento efecto de las actividades se cuenta con el cronograma de trabajo, el cual se puede representar en el Diagrama de #[em Gantt] para su fácil ejecución y seguimiento. 
         p.mb-3 La estandarización de procedimientos es necesaria para la planeación general y la gestión de todas las actividades que impactan la calidad en los procesos dentro de la organización. Cada procedimiento documentado y estandarizado puede cubrir uno o varios elementos del sistema de calidad general los cuales están interrelacionados entre sí.  Por medio de la estandarización de procedimientos, la cual se lleva a cabo en las mismas estructuras y formatos, se pueden obtener los siguientes beneficios: 
         ul.lista-ul.ms-3
           li.mb-0

@@ -16,7 +16,7 @@
     
     figure
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/" title="Plan de acción: metodologías, recursos y lineamientos administrativos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/_vrbhCegGNo" title="Plan de acción: metodologías, recursos y lineamientos administrativos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Video: Plan de acción: metodologías, recursos y lineamientos administrativos
 
 </template>
