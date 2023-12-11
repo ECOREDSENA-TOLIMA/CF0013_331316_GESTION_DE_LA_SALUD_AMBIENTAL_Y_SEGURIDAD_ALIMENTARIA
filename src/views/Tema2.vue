@@ -26,7 +26,7 @@
             p Grupo de personas que hacen parte del plan, programa o proyecto. En los recursos humanos es importante describir los perfiles profesionales y ocupacionales que van a hacer parte del equipo. En cuanto al seguimiento de estos recursos, necesario evaluar el nivel de productividad, el cual se calcula así:
             .row.justify-content-center.align-items-center
               .col-md-11.col-lg-10
-                img(src='@/assets/curso/temas/tema2/tema2-2.svg', alt='')
+                img(src='@/assets/curso/temas/tema2/tema2-2.svg', alt='La figura indica como evaluar el nivel de productividad del recurso humano, teniendo en cuenta el tiempo, las personas asignadas, y el porcentaje de cumplimiento de la actividad.')
             p Acorde con la estructura de la empresa, se puede tener el siguiente recurso humano: 
             ul.lista-ul.ms-3
               li.mb-0
@@ -192,37 +192,37 @@
     p.mb-5(data-aos="fade-down") El procesamiento de los datos se puede realizar por medio de técnicas de filtrado, análisis y visualización de los datos. Para realizar un adecuado procesamiento de datos se cuenta con las siguientes etapas:
 
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4" data-aos="fade-down-right")
-      .tarjeta.color-primario.p-4
+      .tarjeta.color-primario.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema2/carrucel-3a.svg' alt='')
         h4 Recopilación de datos
         p Obtención de datos de fuentes disponibles.
-      .tarjeta.color-primario.p-4
+      .tarjeta.color-primario.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema2/carrucel-3b.svg' alt='')
         h4 Preparación de datos
         p Se le denomina preprocesamiento y consiste en verificar los datos en busca de errores. 
-      .tarjeta.color-primario.p-4
+      .tarjeta.color-primario.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema2/carrucel-3c.svg' alt='')
         h4 Entrada de datos
         p Se ingresan los datos en la computadora la cual cuenta con sistema elegido para el procesamiento. 
-      .tarjeta.color-primario.p-4
+      .tarjeta.color-primario.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema2/carrucel-3d.svg' alt='')
         h4 Procesamiento
         p Se usan técnicas de filtrado, análisis y visualización de datos incluyendo los denominados algoritmos de aprendizaje. 
-      .tarjeta.color-primario.p-4
+      .tarjeta.color-primario.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema2/carrucel-3e.svg' alt='')
         h4 Interpretación de los datos
         p Los datos son llevados a gráficos, videos, imágenes, textos para que sean utilizados por quienes lo requieran.
-      .tarjeta.color-primario.p-4
+      .tarjeta.color-primario.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema2/carrucel-3f.svg' alt='')
@@ -357,7 +357,7 @@
         .titulo-sexto.color-acento-contenido.mb-1
           p.titulo.pb-0.mb-0 #[b Tabla 8.] #[i Tipos de inventarios] 
         .tabla-a.color-acento-contenido
-          table(style="min-width:auto")
+          table(style="min-width:1024px")
             caption Nota. Cruz Fernández, A. (2017). Gestión de inventarios.
             thead
               tr.cabecera-a.text-center
@@ -543,7 +543,7 @@
             | Clasificación por motivo de compra, la cual puede ser racionales o emocionales. 
           li.mb-0
             span.icon ✔ 
-            | Clasificación acorde con la relación con otros productos, estos pueden ser los productos que ustituyen otros, los productos que complementan el otro y los productos que son independientes. 
+            | Clasificación acorde con la relación con otros productos, estos pueden ser los productos que sustituyen otros, los productos que complementan el otro y los productos que son independientes. 
           li.mb-0
             span.icon ✔ 
             | Clasificación de los productos acorde con la naturaleza de estos.  En este escenario se puede encontrar: 

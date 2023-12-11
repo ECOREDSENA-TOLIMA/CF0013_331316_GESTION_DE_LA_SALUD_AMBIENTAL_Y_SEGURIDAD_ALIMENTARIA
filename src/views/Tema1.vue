@@ -9,7 +9,7 @@
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down")
       .col-12.col-md-8.col-lg-7
-        p Para iniciar la revisión de los conceptos relacionados con el plan de acción, es importante resaltar otros temas que hacen parte del proceso. El plan de acción es una herramienta de tipo administrativo, por medio de la cual la organización o empresa traza una línea de actividades con el fin de obtener un resultado positivo en el alcance de los objetivos empresariales propuestos. Los planes de acción están encaminados hacia diversas áreas de la empresa y se requiere de una adecuada proyección de objetivos (general y específicos) así como los recursos tangibles (materiales tecnología, físicos, económicos y financieros) e intangibles (recurso humano: conocimiento, experiencia, motivación) para alcanzar el cumplimiento de las actividades propuestas.  
+        p Para iniciar la revisión de los conceptos relacionados con el plan de acción, es importante resaltar otros temas que hacen parte del proceso. El plan de acción es una herramienta de tipo administrativo, por medio de la cual la organización o empresa traza una línea de actividades con el fin de obtener un resultado positivo en el alcance de los objetivos empresariales propuestos. Los planes de acción están encaminados hacia diversas áreas de la empresa y se requiere de una adecuada proyección de objetivos (general y específicos) así como los recursos tangibles (materiales, tecnología, físicos, económicos y financieros) e intangibles (recurso humano: conocimiento, experiencia, motivación) para alcanzar el cumplimiento de las actividades propuestas.  
         p Este tipo de herramientas sirven para organizar las actividades y planificar de manera adecuada, lo que contribuye en disminuir el margen de error, optimizar los recursos e ir avanzando poco a poco en el alcance de las metas propuestas. Las características generales de un plan de acción se pueden describir como: 
         ul.lista-ul.ms-3
           li.mb-0
@@ -221,8 +221,8 @@
     .row.justify-content-center.mb-4
       .col-12.col-lg-12.mb-2.mb-md-0(data-aos="zoom-in-down")
         figure 
-          img.d-none.d-md-block(src='@/assets/curso/temas/tema1/info-3a.svg', alt='')
-          img.d-block.d-md-none(src='@/assets/curso/temas/tema1/info-3b.svg', alt='')
+          img.d-none.d-md-block(src='@/assets/curso/temas/tema1/info-3a.svg', alt='La infografía indica que para la elaboración del manual de funciones se debe contar con elementos como: objetivo, responsable, descripción de las actividades, datos básicos y seguimiento y control.')
+          img.d-block.d-md-none(src='@/assets/curso/temas/tema1/info-3b.svg', alt='La infografía indica que para la elaboración del manual de funciones se debe contar con elementos como: objetivo, responsable, descripción de las actividades, datos básicos y seguimiento y control.')
 
     p.mb-3(data-aos="fade-down") Para finalizar, se debe tener en cuenta que el contenido de un manual puede variar acorde con los requerimientos de la empresa, por tanto, adicional a los elementos descritos en los párrafos anteriores, es necesario como complemento:  portada, misión y visión, índice, hojas de autorización del área, política de calidad (cuando sea aplicable) objetivo(s) del manual, bitácora de revisiones y modificaciones a políticas y procedimientos, formatos, artículos y anexos.
     p.mb-5(data-aos="fade-down") Para la revisión de los elementos básicos del manual de funciones, se deben diferenciar los términos que se definen a continuación:
@@ -329,7 +329,7 @@
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 <b>Figura 1. </b> <i>Ejemplo proceso y procedimiento </i>
         figure 
-          img(src='@/assets/curso/temas/tema1/fig-1.svg', alt='En la figura 1 se muestra un ejemplo de proceso y procedimiento por medio de un diagrama de flujo.')
+          img(src='@/assets/curso/temas/tema1/fig-1a.svg', alt='En la figura 1 se muestra un ejemplo de proceso y procedimiento por medio de un diagrama de flujo.')
           figcaption Nota. Adaptado de Blogspot y Researchgate.
       .col-12.d-block.d-md-none(data-aos="fade-left")
         a.anexo.mb-4(:href="obtenerLink('/downloads/Figura_1_Ejemplo_proceso_y_procedimiento.pdf')" target="_blank")
@@ -446,7 +446,7 @@
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
-            p #[b Anexo]. Figura 3. Ejemplo proceso y procedimiento 
+            p #[b Anexo]. Figura 3. Diagrama de flujo 
 
     p.mb-3(data-aos="fade-down") El diagrama de flujo puede ser trabajado por columnas y se deben proyectar tantas columnas como sean necesarias para las áreas responsables que participan dentro del procedimiento. Por temas de orden, se sugiere un máximo de tres columnas; si se da el caso que en un procedimiento participen más de tres áreas, estas se deben agrupar acorde con el área jerárquica descendente del titular, esto con fin de prevenir una aglomeración de columnas que dificultan tanto la elaboración, como la comprensión del diagrama.
     p.mb-5(data-aos="fade-down") Para una correcta ejecución de los planes de acción se deben conocer las diversas metodologías que se pueden desarrollar, tanto para el diseño de los planes, programas y proyectos como para la definición de prioridades. Pero antes de comenzar con la revisión de estos temas, es importante conocer aquellos conceptos relacionados con los estándares de calidad, ya que esto ayudará en la comprensión de las metodologías en las que se va a profundizar más adelante. 
@@ -472,7 +472,7 @@
         .titulo-sexto.color-acento-contenido.mb-1
           p.titulo.pb-0.mb-0 #[b Tabla 1.] #[i Ejemplo estándares de calidad IVC Sanitaria] 
         .tabla-a.color-acento-contenido
-          table(style="min-width:auto")
+          table(style="min-width:768px")
             caption Nota: adaptado de Histórico.santander.gov.co.
             thead
               tr.cabecera-a.text-center
@@ -545,7 +545,7 @@
         .titulo-sexto.color-acento-contenido.mb-1
           p.titulo.pb-0.mb-0 #[b Tabla 2.] #[i Tabla resumen presentación estándares de calidad] 
         .tabla-a.color-acento-contenido
-          table(style="min-width:auto")
+          table(style="min-width:768px")
             thead
               tr.cabecera-a.text-center
                 td(style="width:25%")
@@ -639,43 +639,43 @@
     p.mb-5(data-aos="fade-down") A nivel general, el diseño de un proyecto cuenta con los pasos que van desde la proyección de las metas y objetivos claves hasta la puesta en marcha y consolidación de la meta definida. 
 
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4" data-aos="fade-down-right")
-      .tarjeta.color-primario.p-4
+      .tarjeta.color-primario.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema1/carrucel-1.png' alt='')
         h4.text-center Fase 1
         p Estructuración de los objetivos del proyecto. Tener en cuenta formularlos basados en estos elementos: específicos, alcanzables, realistas y de duración limitada. Se debe dejar organizado el cronograma y los entregables del proyecto.
-      .tarjeta.color-primario.p-4
+      .tarjeta.color-primario.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema1/carrucel-2.png' alt='')
         h4.text-center Fase 2
         p.text-start Se deben establecer los resultados del proyecto. Estos resultados describen en mayor detalle las tareas específicas que se van alcanzar con el proyecto.
-      .tarjeta.color-primario.p-4
+      .tarjeta.color-primario.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema1/carrucel-3.png' alt='')
         h4.text-center Fase 3
         p.text-start En esta fase se suelen conocer los principales riesgos y limitaciones. Es importante utilizar un registro de riesgos que permita analizar, documentar y poder resolver los diversos riesgos que surjan alrededor del proyecto. 
-      .tarjeta.color-primario.p-4
+      .tarjeta.color-primario.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema1/carrucel-4.png' alt='')
         h4.text-center Fase 4
         p.text-start Utilizar medios visuales para definir mejor la estrategia del proyecto. Este tipo de estrategias permiten comunicar a los miembros del equipo el fin del proyecto. 
-      .tarjeta.color-primario.p-4
+      .tarjeta.color-primario.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema1/carrucel-5.png' alt='')
         h4.text-center Fase 5
         p.text-start Proyección del presupuesto. Algunas veces, el presupuesto lo asigna la dirección/gerencia, debe alinearse con lo formulado. Hasta la aprobación del presupuesto, se asignan: garantes del proyecto, escritura de documentos y formulación de tareas. 
-      .tarjeta.color-primario.p-4
+      .tarjeta.color-primario.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema1/carrucel-6.png' alt='')
         h4.text-center Fase 6
         p.text-start Organizar un plan de contingencia el cual respalda lo proyectado. Esta fase de plan de contingencia permitirá la resolución de inconvenientes que surjan con optimización de la eficiencia. 
-      .tarjeta.color-primario.p-4
+      .tarjeta.color-primario.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema1/carrucel-7.png' alt='')
@@ -691,7 +691,7 @@
             | El diagrama de flujo: por medio de este se puede visualizar el paso a paso del proyecto. 
           li.mb-0
             span.icon ✔ 
-            | El diagrama de #[3m Gantt]: por medio de este gráfico de barras horizontales se logra visualizar el cronograma del proyecto. Las barras muestran las tareas del proyecto y la longitud de las barras definen la cantidad de tiempo que tardarán en realizarse a completitud. 
+            | El diagrama de #[em Gantt]: por medio de este gráfico de barras horizontales se logra visualizar el cronograma del proyecto. Las barras muestran las tareas del proyecto y la longitud de las barras definen la cantidad de tiempo que tardarán en realizarse a completitud. 
           li.mb-0
             span.icon ✔ 
             | La estructura de desglose del trabajo (WBS): por medio de esta estrategia se desglosan todas las tareas del proyecto, permitiendo proyectar los entregables y siempre teniendo en cuenta los objetivos del proyecto.
@@ -799,7 +799,7 @@
               img(src='@/assets/curso/temas/tema1/tema1-33.png', alt='') 
           .row(titulo="<em>Lean</em>")
             .col-6.mb-4.mb-md-0
-              p En este método se tiene como objetivo darle mayor valor al cliente y disminuir la posibilidad de que se presente desperdicio de los recursos, respondiendo a los cambios del mercado y a la satisfacción de las demandas del consumidor, todo esto enmarcado en la mínima utilización de recursos posibles y eliminando los desperdicios que no aportan valor
+              p En este método se tiene como objetivo darle mayor valor al cliente y disminuir la posibilidad de que se presente desperdicio de los recursos, respondiendo a los cambios del mercado y a la satisfacción de las demandas del consumidor, todo esto enmarcado en la mínima utilización de recursos posibles y eliminando los desperdicios que no aportan valor.
             .col-md-6
               img(src='@/assets/curso/temas/tema1/tema1-33.png', alt='') 
 
@@ -923,7 +923,7 @@
         .titulo-sexto.color-acento-contenido.mb-1
           p.titulo.pb-0.mb-0 #[b Tabla 3.] #[i Elementos claves que debe contener un programa] 
         .tabla-a.color-acento-contenido
-          table(style="min-width:auto")
+          table(style="min-width:768px")
             thead
               tr.cabecera-a.text-center
                 td(style="width:25%") Elemento
@@ -982,32 +982,32 @@
         p.mb-4(data-aos="fade-down") Los pasos esenciales para el diseño de un plan de acción son:
 
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4" data-aos="fade-down-right")
-      .tarjeta.color-primario.p-4
+      .tarjeta.color-primario.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema1/carrucel-2a.png' alt='')
         p Se deben crear de manera correcta los objetivos, tanto los de largo, mediano y corto plazo. 
-      .tarjeta.color-primario.p-4
+      .tarjeta.color-primario.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema1/carrucel-2b.png' alt='')
         p Definir las estrategias que se requieren para alcanzar las metas. 
-      .tarjeta.color-primario.p-4
+      .tarjeta.color-primario.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema1/carrucel-2c.png' alt='')
         p Concretar las tareas y jerarquizarlas acorde con el nivel de urgencia, importancia y las que se puedan abordar como elementos menos urgentes. 
-      .tarjeta.color-primario.p-4
+      .tarjeta.color-primario.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema1/carrucel-2d.png' alt='')
         p Exponer los tiempos de inicio y de fin de cada actividad a realizar. 
-      .tarjeta.color-primario.p-4
+      .tarjeta.color-primario.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema1/carrucel-2e.png' alt='')
         p Asignar las personas líderes y responsables de las actividades proyectadas.
-      .tarjeta.color-primario.p-4
+      .tarjeta.color-primario.p-4.col-ipad
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema1/carrucel-2f.png' alt='')
@@ -1150,14 +1150,14 @@
 
     .tarjeta.color-primario.p-4
       PasosB.color-acento-contenido
-        .row(titulo="Paso 1")
+        .row.col-ipad(titulo="Paso 1")
           .col-md-6.mb-4.mb-md-0
             h4 Definir objetivo
             p El objetivo es elegir el mejor prestador de servicios en salud para la población adulta mayor.  
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema1/tema1-41.png', alt='')
-        .row(titulo="Paso 2")
+        .row.col-ipad(titulo="Paso 2")
           .col-md-6.mb-4.mb-md-0
             h4 Opciones
             p En de las opciones indagadas, se cuentan con las más reconocidas en la zona cercana a la vivienda del grupo de personas: 
@@ -1177,7 +1177,7 @@
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema1/tema1-42.png', alt='')
-        .row(titulo="Paso 3")
+        .row.col-ipad(titulo="Paso 3")
           .col-md-6.mb-4.mb-md-0
             h4 Criterios de elección
             p Los criterios para elegir el mejor prestador de servicios son:
@@ -1200,7 +1200,7 @@
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema1/tema1-43.png', alt='')
-        .row(titulo="Paso 4")
+        .row.col-ipad(titulo="Paso 4")
           .col-md-6.mb-4.mb-md-0
             h4 Accesibilidad
             p Lo más importante es la accesibilidad. Luego las condiciones de seguridad, de tercera está la pertinencia, después la oportunidad y por último la continuidad (para nuestro ejemplo):
@@ -1223,9 +1223,9 @@
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema1/tema1-44.png', alt='')
-        .row(titulo="Paso 5")
+        .row.col-ipad(titulo="Paso 5")
           .col-md-6.mb-4.mb-md-0
-            p Para este ejemplo, cada opción puede tener una puntuación de 1 a 5 por cada criterio evaluado, siendo 1 la calificación más baja y 5 la calificación más alta. lo más bajo y 5 lo más alto. Observar el resultado de la priorización:
+            p Para este ejemplo, cada opción puede tener una puntuación de 1 a 5 por cada criterio evaluado, siendo 1 la calificación más baja y 5 la calificación más alta. lo más bajo y 5 lo más alto. Observar el resultado de la priorización.
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema1/tema1-45.png', alt='')
@@ -1237,7 +1237,7 @@
         .titulo-sexto.color-acento-contenido.mb-1
           p.titulo.pb-0.mb-0 #[b Tabla 5.] #[i Ejemplo 2 - matriz de priorización de auditorías internas] 
         .tabla-a.color-acento-contenido
-          table(style="min-width:auto")
+          table(style="min-width:1024px")
             caption Nota. Supersalud, Auditorías Internas de Gestión, formato IGFL01, versión 3.
             thead
               tr.cabecera-a.text-center
@@ -1294,7 +1294,7 @@
         .titulo-sexto.color-acento-contenido.mb-1
           p.titulo.pb-0.mb-0 #[b Tabla 6.] #[i Ejemplo matriz de priorización en función de las acciones de mejora continua] 
         .tabla-a.color-acento-contenido
-          table(style="min-width:auto")
+          table(style="min-width:1024px")
             caption Nota Hospital Rosario Pumarejo de López. Programa de auditoría para el mejoramiento continuo de la calidad en la E.S.E HRPL. 2020. 
             thead
               tr.cabecera-a.text-center
@@ -1368,7 +1368,7 @@
         .titulo-sexto.color-acento-contenido.mb-1
           p.titulo.pb-0.mb-0 #[b Tabla 7.] #[i Ejemplo. Diagrama de Pareto] 
         .tabla-a.color-acento-contenido
-          table(style="min-width:auto")
+          table(style="min-width:1024px")
             thead
               tr.cabecera-a.text-center
                 th Queja de los usuarios 
@@ -1455,21 +1455,21 @@
             .col-7.col-lg-6
               figure
                 img(src='@/assets/curso/temas/tema1/tema1-47.svg', alt='') 
-          p Actividades a corto plazo: son aquellas que representan prioridad y tiene una fecha concreta. 
+          p #[b Actividades a corto plazo:] son aquellas que representan prioridad y tiene una fecha concreta. 
       .col-sm-6.col-lg-4.mb-4.mb-lg-0.d-flex.align-items-stretch
         .tarjeta--boton.color-primario.p-4
           .row.justify-content-center.mb-3
             .col-7.col-lg-6
               figure
                 img(src='@/assets/curso/temas/tema1/tema1-48.svg', alt='')
-          p Actividades a mediano plazo: corresponde con aquellas actividades con margen de cumplimiento anual o bianual. Por lo general las actividades a mediano plazo se dan como resultado de las de corto plazo. 
+          p #[b Actividades a mediano plazo:] corresponde con aquellas actividades con margen de cumplimiento anual o bianual. Por lo general las actividades a mediano plazo se dan como resultado de las de corto plazo. 
       .col-sm-6.col-lg-4.mb-4.mb-sm-0.d-flex.align-items-stretch
         .tarjeta--boton.color-primario.p-4.w-100
           .row.justify-content-center.mb-3
             .col-7.col-lg-6
               figure
                 img(src='@/assets/curso/temas/tema1/tema1-49.svg', alt='')
-          p Actividades a largo plazo: corresponde con las metas más lejanas en tiempo y dependen del cumplimiento de las actividades de corto y mediano plazo. Por lo general se establecen para un período de 5 a 10 años. 
+          p #[b Actividades a largo plazo:] corresponde con las metas más lejanas en tiempo y dependen del cumplimiento de las actividades de corto y mediano plazo. Por lo general se establecen para un período de 5 a 10 años. 
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down")
       .col-12.col-md-8.col-lg-8

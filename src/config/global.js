@@ -145,7 +145,7 @@ export default {
     {
       termino: 'Alta dirección',
       significado:
-        'Es la persona o grupo de personas que lideran y dirigen la organización. dentro del organigrama se ubican en el nivel más alto. (Salazar Molina A. 2005).',
+        'Es la persona o grupo de personas que lideran y dirigen la organización. Dentro del organigrama se ubican en el nivel más alto. (Salazar Molina A. 2005).',
     },
     {
       termino: 'Calidad',
@@ -194,7 +194,7 @@ export default {
     {
       termino: 'Proyecto',
       significado:
-        'Son el grupo o conjunto de actividades que son coordinadas y controladas con las respectivas fechas de inicio y de finalización, las cuales se llevan a cabo para lograr un objetivo acorde con los requerimientos específicos, teniendo en cuenta las limitaciones de tiempo costo y recursos.  (NTC ISO 9001:2015).',
+        'Son el grupo o conjunto de actividades que son coordinadas y controladas con las respectivas fechas de inicio y de finalización, las cuales se llevan a cabo para lograr un objetivo acorde con los requerimientos específicos, teniendo en cuenta las limitaciones de tiempo, costo y recursos. (NTC ISO 9001:2015).',
     },
     {
       termino: 'Registro',
